@@ -1,4 +1,4 @@
-# Customized GDPR Compliant Cookie-Consent-in-React-with-Google-Tag-Manager-and-Analytics-Integration
+# Customized GDPR Compliant Cookie Consent in React with Google Tag Manager and Analytics Integration
 ## 1. Introduction
 Implementing a GDPR-compliant cookie consent mechanism in your React project is a great way to ensure transparency and give users control over their data while integrating tools like Google Tag Manager (GTM) and Google Analytics (GA). Below, I'll walk you through a detailed approach that includes setting up the cookie consent banner, connecting it to Google Tag Manager and Google Analytics, and managing the switches for different types of cookies (Personalization, Marketing, Analytics, and Optimization).
 
